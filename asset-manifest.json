@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//https://ilvasolo.github.io/gitFirstRepo/static/css/main.9ecdafdf.css",
-    "main.js": "/https//https://ilvasolo.github.io/gitFirstRepo/static/js/main.52cfc60b.js",
-    "index.html": "/https//https://ilvasolo.github.io/gitFirstRepo/index.html",
-    "main.9ecdafdf.css.map": "/https//https://ilvasolo.github.io/gitFirstRepo/static/css/main.9ecdafdf.css.map",
-    "main.52cfc60b.js.map": "/https//https://ilvasolo.github.io/gitFirstRepo/static/js/main.52cfc60b.js.map"
+    "main.css": "/gitFirstRepo/static/css/main.9ecdafdf.css",
+    "main.js": "/gitFirstRepo/static/js/main.52cfc60b.js",
+    "index.html": "/gitFirstRepo/index.html",
+    "main.9ecdafdf.css.map": "/gitFirstRepo/static/css/main.9ecdafdf.css.map",
+    "main.52cfc60b.js.map": "/gitFirstRepo/static/js/main.52cfc60b.js.map"
   },
   "entrypoints": [
     "static/css/main.9ecdafdf.css",
